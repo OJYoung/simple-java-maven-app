@@ -36,7 +36,7 @@ public class AppTest
         try {
             assertEquals("Hello Eisenhime,This is jenkins test On gitHub!" + System.getProperty("line.separator"), outContent.toString());
         } catch (AssertionError e) {
-            fail("\"message\" is not \"Hello World!\"");
+            fail("\"message\" is not \"Hello Eisenhime,This is jenkins test On gitHub!\"");
         }
     }
 
