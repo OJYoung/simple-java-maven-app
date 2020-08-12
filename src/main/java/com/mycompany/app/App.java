@@ -6,7 +6,7 @@ package com.mycompany.app;
 public class App
 {
 
-    private final String message = "Hello Eisenhime,This is jenkins test!";
+    private final String message = "Hello Eisenhime,This is jenkins test On gitHub!";
 
     public App() {}
 
